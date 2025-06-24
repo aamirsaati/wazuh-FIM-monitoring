@@ -54,6 +54,7 @@ This project documents a complete setup of Wazuh in a lab environment with a foc
 
 ------
 🔗 Connect With Me
+
 💼 [LinkedIn](https://www.linkedin.com/in/m-aamir947/)
 
 📧 aamirirshad947@gmail.com
